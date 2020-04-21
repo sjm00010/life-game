@@ -1,7 +1,7 @@
 # El juego de la vida (Life game)
 Este pequeño juego trata de reproducir el comportamiento de las células, a través de 2 sencillas reglas.
 
-## Requisitos
+## Requisítos
 Necesitas las librerías, todo el código esta desarrollado en Python 3.7.2 :
 - Pygame : librería con bastantes utilidades a la hora de desarrollar un juego en Python. '''pip install pygame'''
 - Numpy : librería para trabajar con matrices y funciones matemáticas. '''pip install numpy'''
