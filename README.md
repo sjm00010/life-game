@@ -3,9 +3,9 @@ Este pequeño juego trata de reproducir el comportamiento de las células, a tra
 
 ## Requisítos
 Necesitas las librerías, todo el código esta desarrollado en Python 3.7.2 :
-- Pygame : librería con bastantes utilidades a la hora de desarrollar un juego en Python. '''pip install pygame'''
-- Numpy : librería para trabajar con matrices y funciones matemáticas. '''pip install numpy'''
-- Time : librería con utilidades sobre el tiempo, usada para hacer descansos. '''pip install time'''
+- Pygame : librería con bastantes utilidades a la hora de desarrollar un juego en Python. ```pip install pygame```
+- Numpy : librería para trabajar con matrices y funciones matemáticas. ```pip install numpy```
+- Time : librería con utilidades sobre el tiempo, usada para hacer descansos. ```pip install time```
 
 ## Controles
 Los controles son :
